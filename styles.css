@@ -3,11 +3,12 @@ body {
 }
 .container {
     background-color: white;
-    min-width: 1900px;
+    max-width: 1750px;
     font-family: Montserrat;
     font-style: normal;
     font-weight: 400px;
     padding: 72px;
+
 }
 .header {
     font-size: 32px;
@@ -62,6 +63,6 @@ body {
 .nature-6 {
     position: relative;
     top: -65px;
-    left: -130px;
+    
 }
     
